@@ -462,5 +462,3 @@ INSERT INTO valor_factura(
     1071,
     1000
 );
-
-
